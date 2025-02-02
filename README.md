@@ -1,4 +1,3 @@
-<!--
 ![Header Image](https://github.com/cosmasnwaeze19/Cosmas-Nwaeze/blob/main/ProImag.png)
 
 ## Hi 👋 My name Cosmas Nwaeze
@@ -50,5 +49,3 @@ I am committed to **continuous learning** and documenting my journey in data sci
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Expert-orange?logo=dataviz)
 
 Feel free to reach out or explore my repositories to see how I am using Data Science to turn data into actionable insights.
-
--->
