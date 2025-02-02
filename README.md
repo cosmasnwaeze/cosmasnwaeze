@@ -1,6 +1,5 @@
 ![Header Image](https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Profileimage.png)
 
-## Hi 👋 My name Cosmas Nwaeze
 
 I am a **data scientist** interested and Proficient in AI and ML Engineering in Data Science with expertise in transforming raw data into actionable insights. With skills in **Python, R, SQL, Machine Learning, and Data Visualization**, I specialize in building predictive models, performing deep data analyses, and crafting insightful visualizations to drive data-driven decision-making.
 
@@ -49,16 +48,20 @@ I am committed to **continuous learning** and documenting my journey in data sci
 - Balancing **model performance with environmental impact**  
 ---
 
-
+---
 ### 🏆 Certifications & Awards  
 
-![Certification 1](https://your-image-link.com/cert1.png)  
-*Certificate Title - Issuing Organization (Year)*  
+<p align="center">
+  <img src="https://your-image-link.com/cert1.png" width="30%" alt="Certificate 1">
+  <img src="https://your-image-link.com/cert2.png" width="30%" alt="Certificate 2">
+  <img src="https://your-image-link.com/cert3.png" width="30%" alt="Certificate 3">
+</p>
 
-![Certification 2](https://your-image-link.com/cert2.png)  
-*Certificate Title - Issuing Organization (Year)*  
-
-![Award 1](https://your-image-link.com/award1.png)  
-*Award Title - Awarding Body (Year)*  
+<p align="center">
+  <img src="https://your-image-link.com/cert4.png" width="30%" alt="Certificate 4">
+  <img src="https://your-image-link.com/cert5.png" width="30%" alt="Certificate 5">
+  <img src="https://your-image-link.com/cert6.png" width="30%" alt="Certificate 6">
+</p>
+ ---
 
 Feel free to reach out or explore my repositories to see how I am using Data Science to turn data into actionable insights.
