@@ -14,20 +14,30 @@ I am committed to **continuous learning** and documenting my journey in data sci
 
 
 ## 🏆 Badges  
-<p align="center">
-![Python](https://img.shields.io/badge/Python-blue?logo=python)  
-![R](https://img.shields.io/badge/R-blue?logo=r)  
-![SQL](https://img.shields.io/badge/SQL-blue?logo=database)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-purple?logo=ai)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?logo=ml)  
-![Statistics](https://img.shields.io/badge/Statistics-orange?logo=bar-chart)  
-![Maths](https://img.shields.io/badge/Maths-red?logo=mathworks)  
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-yellow?logo=dataviz)
-![Domain Knowledge](https://img.shields.io/badge/Domain%20Knowledge-lightblue?logo=knowledge)  
-![Model Development](https://img.shields.io/badge/Model%20Development-darkgreen?logo=model)  
-![Big Data](https://img.shields.io/badge/Big%20Data-darkblue?logo=bigdata)
-</p>
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-blue?logo=python"></td>
+    <td><img src="https://img.shields.io/badge/R-blue?logo=r"></td>
+    <td><img src="https://img.shields.io/badge/SQL-blue?logo=database"></td>
+    <td><img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?logo=ai"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Machine%20Learning-green?logo=ml"></td>
+    <td><img src="https://img.shields.io/badge/Statistics-orange?logo=bar-chart"></td>
+    <td><img src="https://img.shields.io/badge/Maths-red?logo=mathworks"></td>
+    <td><img src="https://img.shields.io/badge/Data%20Visualization-yellow?logo=dataviz"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Domain%20Knowledge-lightblue?logo=knowledge"></td>
+    <td><img src="https://img.shields.io/badge/Model%20Development-darkgreen?logo=model"></td>
+    <td><img src="https://img.shields.io/badge/Big%20Data-darkblue?logo=bigdata"></td>
+    <td></td> <!-- Empty cell to balance alignment -->
+  </tr>
+</table>
+
 ---
+
 ### My Data Science & AI Skills  
 
 🔹 **Programming & Data Manipulation**  
@@ -53,6 +63,9 @@ I am committed to **continuous learning** and documenting my journey in data sci
 🔹 **Ethical AI & Responsible Data Science**  
 - Ensuring fairness by addressing **bias in datasets and ML models**  
 - Balancing **model performance with environmental impact**  
+
+---
+
 ---
 ### 🏆 Certifications & Awards  
 
@@ -60,13 +73,36 @@ I am committed to **continuous learning** and documenting my journey in data sci
   <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/WQU%20DS%20Cert.jpg" width="30%" alt="Certificate 1">
   <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/DA%20SKill.jpg" width="30%" alt="Certificate 2">
   <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Data%20Literacy.jpg" width="30%" alt="Certificate 3">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/DS%20AI%20Tech%20Cert.png" width="30%" alt="Certificate 4">
 </p>
 
 <p align="center">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/DS%20AI%20Tech%20Cert.png" width="30%" alt="Certificate 4">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/AI%20Fund%20Cert.jpg" width="30%" alt="Certificate 5">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/AI%20Fund%20CompleteMess.jpg" width="30%" alt="Certificate 6">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Machine%20Learning%20Explainability.png" width="30%" alt="Certificate 5">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/AI%20Fund%20Cert.jpg" width="30%" alt="Certificate 6">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Intro%20to%20Machine%20Learning.png" width="30%" alt="Certificate 7">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Intermediate%20Machine%20Learning.png" width="30%" alt="Certificate 8">
 </p>
- ---
+
+<p align="center">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Feature%20Engineering.png" width="30%" alt="Certificate 9">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Intro%20to%20Programming.png" width="30%" alt="Certificate 10">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Python.png" width="30%" alt="Certificate 11">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/AI%20Fund%20CompleteMess.jpg" width="30%" alt="Certificate 12">
+</p>
+
+<p align="center">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Data%20Visualization.png" width="30%" alt="Certificate 13">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Data%20Cleaning.png" alt="Certificate 14">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Intro%20to%20Programming.png" width="30%" alt="Certificate 15">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Python.png" width="30%" alt="Certificate 16">
+</p>
+
+<p align="center">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Pandas.png" width="30%" alt="Certificate 17">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/CTA%20Bootcamp.jpg" width="30%" alt="Certificate 18">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/CWW%20DA%20Cert.jpg" width="30%" alt="Certificate 19">
+</p>
+---
 
 **Feel free to reach out or explore my repositories to see how I am using Data Science to turn data into actionable insights**.
+---
