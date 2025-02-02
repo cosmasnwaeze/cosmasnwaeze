@@ -1,4 +1,4 @@
-![Header Image](https://github.com/cosmasnwaeze19/Cosmas-Nwaeze/blob/main/ProImag.png)
+![Header Image](https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Profileimage.png)
 
 ## Hi 👋 My name Cosmas Nwaeze
 
@@ -12,6 +12,14 @@ I am committed to **continuous learning** and documenting my journey in data sci
 - ✉️ **Contact me at:** [Email](cosmasnwaeze19@.com)
 - 🤝 Open to **collaborating** on data science projects
 - 🔗 **Socials:** [LinkedIn](https://www.linkedin.com/in/nwaeze-cosmas/) | [Kaggle](https://www.kaggle.com/datarobotics) | [GitHub](https://github.com/cosmasnwaeze19)
+
+
+## 🏆 Badges
+![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
+![R](https://img.shields.io/badge/R-Expert-blue?logo=r)
+![SQL](https://img.shields.io/badge/SQL-Expert-blue?logo=database)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-green?logo=ml)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Expert-orange?logo=dataviz)
 
 ---
 ### My Data Science & AI Skills  
@@ -41,11 +49,16 @@ I am committed to **continuous learning** and documenting my journey in data sci
 - Balancing **model performance with environmental impact**  
 ---
 
-## 🏆 Badges
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-![R](https://img.shields.io/badge/R-Expert-blue?logo=r)
-![SQL](https://img.shields.io/badge/SQL-Expert-blue?logo=database)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-green?logo=ml)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Expert-orange?logo=dataviz)
+
+### 🏆 Certifications & Awards  
+
+![Certification 1](https://your-image-link.com/cert1.png)  
+*Certificate Title - Issuing Organization (Year)*  
+
+![Certification 2](https://your-image-link.com/cert2.png)  
+*Certificate Title - Issuing Organization (Year)*  
+
+![Award 1](https://your-image-link.com/award1.png)  
+*Award Title - Awarding Body (Year)*  
 
 Feel free to reach out or explore my repositories to see how I am using Data Science to turn data into actionable insights.
