@@ -19,21 +19,14 @@ I am committed to **continuous learning** and documenting my journey in data sci
 ![R](https://img.shields.io/badge/R-blue?logo=r)  
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=database)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-purple?logo=ai)
-</p>
-
-<p align="center">
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?logo=ml)  
 ![Statistics](https://img.shields.io/badge/Statistics-orange?logo=bar-chart)  
 ![Maths](https://img.shields.io/badge/Maths-red?logo=mathworks)  
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-yellow?logo=dataviz)
-</p>
-
-<p align="center">
 ![Domain Knowledge](https://img.shields.io/badge/Domain%20Knowledge-lightblue?logo=knowledge)  
 ![Model Development](https://img.shields.io/badge/Model%20Development-darkgreen?logo=model)  
 ![Big Data](https://img.shields.io/badge/Big%20Data-darkblue?logo=bigdata)
 </p>
-
 ---
 ### My Data Science & AI Skills  
 
@@ -70,9 +63,9 @@ I am committed to **continuous learning** and documenting my journey in data sci
 </p>
 
 <p align="center">
-  <img src="https://your-image-link.com/cert4.png" width="30%" alt="Certificate 4">
-  <img src="https://your-image-link.com/cert5.png" width="30%" alt="Certificate 5">
-  <img src="https://your-image-link.com/cert6.png" width="30%" alt="Certificate 6">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/DS%20AI%20Tech%20Cert.png" width="30%" alt="Certificate 4">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/AI%20Fund%20Cert.jpg" width="30%" alt="Certificate 5">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/AI%20Fund%20CompleteMess.jpg" width="30%" alt="Certificate 6">
 </p>
  ---
 
