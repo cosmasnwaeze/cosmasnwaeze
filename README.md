@@ -17,22 +17,22 @@ I am committed to **continuous learning** and documenting my journey in data sci
 
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/Python-blue?logo=python"></td>
-    <td><img src="https://img.shields.io/badge/R-blue?logo=r"></td>
-    <td><img src="https://img.shields.io/badge/SQL-blue?logo=database"></td>
-    <td><img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?logo=ai"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Python-blue?logo=python"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/R-blue?logo=r"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/SQL-blue?logo=database"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?logo=ai"></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Machine%20Learning-green?logo=ml"></td>
-    <td><img src="https://img.shields.io/badge/Statistics-orange?logo=bar-chart"></td>
-    <td><img src="https://img.shields.io/badge/Maths-red?logo=mathworks"></td>
-    <td><img src="https://img.shields.io/badge/Data%20Visualization-yellow?logo=dataviz"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Machine%20Learning-green?logo=ml"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Statistics-orange?logo=bar-chart"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Maths-red?logo=mathworks"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Data%20Visualization-yellow?logo=dataviz"></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Domain%20Knowledge-lightblue?logo=knowledge"></td>
-    <td><img src="https://img.shields.io/badge/Model%20Development-darkgreen?logo=model"></td>
-    <td><img src="https://img.shields.io/badge/Big%20Data-darkblue?logo=bigdata"></td>
-    <td><img src="https://img.shields.io/badge/API%20%2F%20Database-darkblue?logo=api"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Domain%20Knowledge-lightblue?logo=knowledge"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Model%20Development-darkgreen?logo=model"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Big%20Data-darkblue?logo=bigdata"></td>
+    <td style="padding: 10px;"><img src="https://img.shields.io/badge/API%20%2F%20Database-darkblue?logo=api"></td>
   </tr>
 </table>
 
@@ -94,7 +94,7 @@ I am committed to **continuous learning** and documenting my journey in data sci
 
 <p align="center">
   <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Data%20Visualization.png" width="30%" alt="Certificate 13">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Data%20Cleaning.png" alt="Certificate 14">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Data%20Cleaning.png" width="30%" alt="Certificate 14">
   <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Intro%20to%20Programming.png" width="30%" alt="Certificate 15">
 </p>
 
