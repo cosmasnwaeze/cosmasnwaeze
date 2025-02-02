@@ -15,24 +15,24 @@ I am committed to **continuous learning** and documenting my journey in data sci
 
 ## 🏆 Badges  
 
-<table>
+<table style="width:100%; text-align:center;">
   <tr>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Python-blue?logo=python"></td>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/R-blue?logo=r"></td>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/SQL-blue?logo=database"></td>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?logo=ai"></td>
+    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Python-blue?logo=python"></td>
+    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/R-blue?logo=r"></td>
+    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/SQL-blue?logo=database"></td>
+    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?logo=ai"></td>
   </tr>
   <tr>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Machine%20Learning-green?logo=ml"></td>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Statistics-orange?logo=bar-chart"></td>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Maths-red?logo=mathworks"></td>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Data%20Visualization-yellow?logo=dataviz"></td>
+    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Machine%20Learning-green?logo=ml"></td>
+    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Statistics-orange?logo=bar-chart"></td>
+    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Maths-red?logo=mathworks"></td>
+    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Data%20Visualization-yellow?logo=dataviz"></td>
   </tr>
   <tr>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Domain%20Knowledge-lightblue?logo=knowledge"></td>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Model%20Development-darkgreen?logo=model"></td>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/Big%20Data-darkblue?logo=bigdata"></td>
-    <td style="padding: 10px;"><img src="https://img.shields.io/badge/API%20%2F%20Database-darkblue?logo=api"></td>
+    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Domain%20Knowledge-lightblue?logo=knowledge"></td>
+    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Model%20Development-darkgreen?logo=model"></td>
+    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Big%20Data-darkblue?logo=bigdata"></td>
+    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/API%20%2F%20Database-darkblue?logo=api"></td>
   </tr>
 </table>
 
