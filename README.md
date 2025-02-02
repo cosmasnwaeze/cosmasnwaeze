@@ -32,7 +32,8 @@ I am committed to **continuous learning** and documenting my journey in data sci
     <td><img src="https://img.shields.io/badge/Domain%20Knowledge-lightblue?logo=knowledge"></td>
     <td><img src="https://img.shields.io/badge/Model%20Development-darkgreen?logo=model"></td>
     <td><img src="https://img.shields.io/badge/Big%20Data-darkblue?logo=bigdata"></td>
-    td><img src="https://img.shields.io/badge/Api%20/Database-darkblue?logo=api"></td>  </tr>
+    <td><img src="https://img.shields.io/badge/API%20%2F%20Database-darkblue?logo=api"></td>
+  </tr>
 </table>
 
 ---
@@ -97,10 +98,14 @@ I am committed to **continuous learning** and documenting my journey in data sci
   <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Intro%20to%20Programming.png" width="30%" alt="Certificate 15">
 </p>
 
+<p align="center">
   <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Python.png" width="30%" alt="Certificate 16">
   <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/CTA%20Bootcamp.jpg" width="30%" alt="Certificate 17">
   <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/CWW%20DA%20Cert.jpg" width="30%" alt="Certificate 19">
+</p>
+
 ---
 
 **Feel free to reach out or explore my repositories to see how I am using Data Science to turn data into actionable insights**.
+
 ---
