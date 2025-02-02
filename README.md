@@ -17,25 +17,48 @@ I am committed to **continuous learning** and documenting my journey in data sci
 
 <table style="width:100%; text-align:center;">
   <tr>
-    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Python-blue?logo=python"></td>
-    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/R-blue?logo=r"></td>
-    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/SQL-blue?logo=database"></td>
-    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?logo=ai"></td>
+    <td width="25%" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white">
+    </td>
+    <td width="25%" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/R-blue?logo=r&logoColor=white">
+    </td>
+    <td width="25%" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/SQL-blue?logo=mysql&logoColor=white">
+    </td>
+    <td width="25%" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?logo=openai&logoColor=white">
+    </td>
   </tr>
   <tr>
-    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Machine%20Learning-green?logo=ml"></td>
-    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Statistics-orange?logo=bar-chart"></td>
-    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Maths-red?logo=mathworks"></td>
-    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Data%20Visualization-yellow?logo=dataviz"></td>
+    <td width="25%" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Machine%20Learning-green?logo=scikit-learn&logoColor=white">
+    </td>
+    <td width="25%" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Statistics-orange?logo=bar-chart&logoColor=white">
+    </td>
+    <td width="25%" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Maths-red?logo=numpy&logoColor=white">
+    </td>
+    <td width="25%" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Data%20Visualization-yellow?logo=tableau&logoColor=white">
+    </td>
   </tr>
   <tr>
-    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Domain%20Knowledge-lightblue?logo=knowledge"></td>
-    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Model%20Development-darkgreen?logo=model"></td>
-    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/Big%20Data-darkblue?logo=bigdata"></td>
-    <td width="25%" style="padding: 15px;"><img src="https://img.shields.io/badge/API%20%2F%20Database-darkblue?logo=api"></td>
+    <td width="25%" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Domain%20Knowledge-lightblue?logo=knowledge&logoColor=white">
+    </td>
+    <td width="25%" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Model%20Development-darkgreen?logo=tensorflow&logoColor=white">
+    </td>
+    <td width="25%" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/Big%20Data-darkblue?logo=apache-spark&logoColor=white">
+    </td>
+    <td width="25%" style="padding: 15px;">
+      <img src="https://img.shields.io/badge/API%20%2F%20Database-darkblue?logo=fastapi&logoColor=white">
+    </td>
   </tr>
 </table>
-
 ---
 
 ### My Data Science & AI Skills  
