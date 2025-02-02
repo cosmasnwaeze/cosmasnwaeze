@@ -14,19 +14,25 @@ I am committed to **continuous learning** and documenting my journey in data sci
 
 
 ## 🏆 Badges  
-
+<p align="center">
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)  
 ![R](https://img.shields.io/badge/R-blue?logo=r)  
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=database)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-purple?logo=ai)  
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-purple?logo=ai)
+</p>
+
+<p align="center">
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?logo=ml)  
 ![Statistics](https://img.shields.io/badge/Statistics-orange?logo=bar-chart)  
 ![Maths](https://img.shields.io/badge/Maths-red?logo=mathworks)  
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-yellow?logo=dataviz)  
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-yellow?logo=dataviz)
+</p>
+
+<p align="center">
 ![Domain Knowledge](https://img.shields.io/badge/Domain%20Knowledge-lightblue?logo=knowledge)  
 ![Model Development](https://img.shields.io/badge/Model%20Development-darkgreen?logo=model)  
-![Big Data](https://img.shields.io/badge/Big%20Data-darkblue?logo=bigdata)  
-
+![Big Data](https://img.shields.io/badge/Big%20Data-darkblue?logo=bigdata)
+</p>
 
 ---
 ### My Data Science & AI Skills  
