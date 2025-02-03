@@ -5,7 +5,7 @@ I am a **data scientist** interested and Proficient in AI and ML Engineering in 
 
 I am committed to **continuous learning** and documenting my journey in data science, combining technical precision with creativity to solve real-world problems.
 
-## 🌍 About Me
+##  About Me
 - 📍 Based in **Nigeria**
 - 🖥️ **Portfolio:** [View my projects](https://www.datascienceportfol.io/cosmasnwaeze19)
 - 💻 **Github Projects:** [View my Github projects](https://github.com/cosmasnwaeze?tab=repositories)
@@ -14,7 +14,7 @@ I am committed to **continuous learning** and documenting my journey in data sci
 - 🔗 **Socials:** [LinkedIn](https://www.linkedin.com/in/nwaeze-cosmas/) | [Kaggle](https://www.kaggle.com/datarobotics) | [GitHub](https://github.com/cosmasnwaeze19)
 
 
-## 🏆 Badges  
+##  Badges  
 
 <table style="width:100%; text-align:center;">
   <tr>
@@ -63,18 +63,19 @@ I am committed to **continuous learning** and documenting my journey in data sci
 
 ---
 
-### My Data Science & AI Skills  
+### My Skills Summary 
 
-🔹 **Programming & Data Manipulation**  
+🔹 **Data Science Programming & Data Manipulation**  
 - Proficient in **Python** and **SQL**  
-- Manipulating data using **pandas**  
+- Manipulating data using **pandas** and **NumPy**  
 - Extracting data from **CSV, JSON, SQL (SQLite), and NoSQL (MongoDB)**  
 - Consuming **web APIs** using HTTP requests  
 
-🔹 **Machine Learning & Analytics**  
+🔹 **AI and Machine Learning Analytics**  
 - Building ML models with **scikit-learn, imbalanced-learn, and statsmodels**  
 - Applying **supervised and unsupervised learning** techniques  
-- Creating **ETL pipelines** to prepare training sets  
+- Creating **ETL pipelines** to prepare training sets
+- Interpreting model behavior using **Partial Dependence Plots** and understanding individual predictions utilizing advanced **SHAP techniques** for in-depth insights
 
 🔹 **Data Visualization & Dashboards**  
 - Crafting visualizations using **Matplotlib, Plotly Express, and Seaborn**  
@@ -91,7 +92,7 @@ I am committed to **continuous learning** and documenting my journey in data sci
 
 ---
 
-### 🏆 Certifications & Awards  
+### Certifications & Awards  
 
 <p align="center">
   <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/WQU%20DS%20Cert.jpg" width="30%" alt="Certificate 1">
@@ -132,5 +133,13 @@ I am committed to **continuous learning** and documenting my journey in data sci
 ---
 
 **Feel free to reach out or explore my repositories to see how I am using Data Science to turn data into actionable insights**.
+---
+### Technical Skill-Tool Tags  
 
+Python • SQL • Pandas • NumPy • CSV • JSON • SQL (SQLite, PostgreSQL) • NoSQL (MongoDB) • Web APIs  
+Scikit-learn • Imbalanced-learn • Statsmodels • Supervised and Unsupervised Learning • ML Model Development • XGBoost • Random Forest • Gradient Boosting • Decision Trees • Support Vector Machines (SVM)  
+Data Preprocessing • Feature Engineering • One-Hot Encoding • Label Encoding • Target Encoding • Mutual Information • Variance Thresholding • K-Means Clustering • Principal Component Analysis (PCA)  
+Cross-Validation • Stratified K-Fold • ROC-AUC • F1-score • Precision-Recall Curve • Permutation Importance • SHAP (SHapley Additive Explanations) • Partial Dependence Plots (PDP) • Data Leakage Prevention • GridSearchCV • RandomizedSearchCV  
+Matplotlib • Seaborn • Plotly Express • Plotly Dash • IPyWidgets • TSNE (t-Distributed Stochastic Neighbor Embedding)  
+FastAPI • Flask • Pydantic • Uvicorn • Docker • ETL Pipelines  
 ---
