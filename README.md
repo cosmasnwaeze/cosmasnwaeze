@@ -138,7 +138,7 @@ I am committed to **continuous learning** and documenting my journey in data sci
 
 ## Technical Skill-Tool Tags   
 
-| 🖥 Programming & Data Manipulation | 🤖 Machine Learning & Model Development | 🏗 Feature Engineering & Preprocessing |
+|  Programming & Data Manipulation |  Machine Learning & Model Development |  Feature Engineering & Preprocessing |
 |-----------------------------------|-----------------------------------|--------------------------------|
 | Python • SQL • Pandas • NumPy | Scikit-learn • Imbalanced-learn • Statsmodels | Data Preprocessing • Feature Engineering |
 | CSV • JSON • SQL (SQLite, PostgreSQL) | Supervised and Unsupervised Learning | One-Hot Encoding • Label Encoding |
@@ -146,7 +146,7 @@ I am committed to **continuous learning** and documenting my journey in data sci
 |  | Gradient Boosting • Decision Trees • SVM | Variance Thresholding • K-Means Clustering |
 |  |  | Principal Component Analysis (PCA) |
 
-| 📊 Model Evaluation & Optimization | 📈 Data Visualization & Dashboards | 🚀 Model Deployment & APIs |
+|  Model Evaluation & Optimization |  Data Visualization & Dashboards |  Model Deployment & APIs |
 |-----------------------------------|-----------------------------------|------------------------------|
 | Cross-Validation • Stratified K-Fold | Matplotlib • Seaborn | FastAPI • Flask |
 | ROC-AUC • F1-score | Plotly Express • Plotly Dash | Pydantic • Uvicorn |
