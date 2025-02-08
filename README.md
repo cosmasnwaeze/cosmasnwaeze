@@ -92,7 +92,7 @@ I am committed to **continuous learning** and documenting my journey in data sci
 
 ---
 
-## Certifications & Awards  
+## [Certifications & Awards](https://github.com/cosmasnwaeze/cosmasnwaeze/tree/main/)
 
 <p align="center">
   <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/WQU%20DS%20Cert.jpg" width="30%" alt="Certificate 1">
