@@ -5,12 +5,13 @@ I am a **data scientist** interested and Proficient in AI and ML Engineering in 
 I am committed to **continuous learning** and documenting my journey in data science, combining technical precision with creativity to solve real-world problems.
 
 ## About Me
-- 📍 Based in **Nigeria**
+- 📍 Based in **France** <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/4cbe4da3-e413-4b6b-bf54-32ab8e2453cc" />
+
 - 🖥️ **Portfolio:** [View my projects](https://www.datascienceportfol.io/cosmasnwaeze19)
 - 💻 **Github Projects:** [View my Github projects](https://github.com/cosmasnwaeze?tab=repositories)
 - ✉️ **Contact me at:** [Email](cosmasnwaeze19@.com)
 - 🤝 Open to **collaborating** on data science projects
-- 🔗 **Socials:** [LinkedIn](https://www.linkedin.com/in/nwaeze-cosmas/) | [Kaggle](https://www.kaggle.com/datarobotics) | [GitHub](https://github.com/cosmasnwaeze19)
+- 🔗 **Socials:** [LinkedIn](https://www.linkedin.com/in/nwaeze-cosmas/) | [Kaggle](https://www.kaggle.com/datarobotics)
 
 
 ## Badges  
