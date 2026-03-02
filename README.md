@@ -95,21 +95,22 @@ I am committed to **continuous learning** and documenting my journey in data sci
 ## [Certifications & Awards](https://github.com/cosmasnwaeze/cosmasnwaeze/tree/main/)
 
 <p align="center">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/CPN_NSQ_Certificate.pdf" width="30%" alt="Certificate 1">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/AI_Fundamentals_with_IBM_SkillsBuild_certificate_cosmasnwaeze19-gmail-com_12d673a9-8785-4d9c-b0d6-6b33bfe4d96b.pdf" width="30%" alt="Certificate 4">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/AppliedDataScienceLab20250201-25-4v3gv6.pdf" width="30%" alt="Certificate 1">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/CPN1.png" width="30%" alt="Certificate 1">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/CPN2.png" width="30%" alt="Certificate 4">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/AI_Fundamentals_IBM.png" width="30%" alt="Certificate 1">
 
 </p>
 
 <p align="center">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/IBMCert.png" width="30%" alt="Certificate 1">
   <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/WQU%20DS%20Cert.jpg" width="30%" alt="Certificate 1">
   <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/DA%20SKill.jpg" width="30%" alt="Certificate 2">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Data%20Literacy.jpg" width="30%" alt="Certificate 3">
 </p>
 
 <p align="center">
   <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Machine%20Learning%20Explainability.png" width="30%" alt="Certificate 5">
   <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/AI%20Fund%20Cert.jpg" width="30%" alt="Certificate 6">
+  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Data%20Literacy.jpg" width="30%" alt="Certificate 3">
   <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Python.png" width="30%" alt="Certificate 16">
 </p>
 
