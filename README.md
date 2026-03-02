@@ -5,7 +5,7 @@ I am a **data scientist** interested and Proficient in AI and ML Engineering in 
 I am committed to **continuous learning** and documenting my journey in data science, combining technical precision with creativity to solve real-world problems.
 
 ## About Me
-- 📍 Based in **France** <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4cbe4da3-e413-4b6b-bf54-32ab8e2453cc" />
+- 📍 Based in **France** <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/4cbe4da3-e413-4b6b-bf54-32ab8e2453cc" />
 
 - 🖥️ **Portfolio:** [View my projects](https://www.datascienceportfol.io/cosmasnwaeze19)
 - 💻 **Github Projects:** [View my Github projects](https://github.com/cosmasnwaeze?tab=repositories)
