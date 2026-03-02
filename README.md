@@ -1,5 +1,4 @@
-![Header Image](https://github.com/cosmasnwaeze/cosmasNwaeze/blob/main/Profileimage.png)
-
+<!-- ![Header Image](https://github.com/cosmasnwaeze/cosmasNwaeze/blob/main/Profileimage.png) -->
 
 I am a **data scientist** interested and Proficient in AI and ML Engineering in Data Science with expertise in transforming raw data into actionable insights. With skills in **Python, SQL, Machine Learning, and Data Visualization**, I specialize in building predictive models, performing deep data analyses, and crafting insightful visualizations to drive data-driven decision-making.
 
